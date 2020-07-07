@@ -1,0 +1,30 @@
+{
+  "name": "stylelint-max-lines",
+  "version": "0.1.0",
+  "description": "Limit the count of a lines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkrnl/stylelint-max-lines.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-plugin",
+    "css",
+    "linter"
+  ],
+  "author": "dkrnl <dkrnl@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkrnl/stylelint-max-lines/issues"
+  },
+  "homepage": "https://github.com/dkrnl/stylelint-max-lines#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "stylelint": "^13.6.1"
+  }
+}
