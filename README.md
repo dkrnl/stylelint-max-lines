@@ -9,7 +9,7 @@ Limit the count of a lines.
 npm install stylelint --save-dev
 ```
 
-2.  Install `stylelint-order`:
+2.  Install `stylelint-max-lines`:
 
 ```
 npm install stylelint-max-lines --save-dev
